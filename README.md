@@ -7,6 +7,9 @@ You can find the code for Creating Infrastructure in the below 2 files:
 
 The json file contains the profile parameters used in the YAML file.
 
+Here is the working URL of the application:
+http://udaci-webap-1qe0dv2psolqn-545941880.us-east-1.elb.amazonaws.com/
+
 Here is a LucidChart Diagram for the Application.
 
 https://lucid.app/lucidchart/e0e56991-ba94-495e-a499-08d87ef14858/edit?viewport_loc=-489%2C130%2C2993%2C1322%2C0_0&invitationId=inv_a119262d-1655-4360-bbb3-23065623c1e7
